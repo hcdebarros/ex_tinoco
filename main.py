@@ -7,7 +7,7 @@ from pathlib import Path
 
 # CONFIGURAÇÃO INICIAL
 API_URL = "https://brasil.io/api/v1/dataset/gastos-diretos/gastos/data"
-TOKEN = "da3c4e1a384a7e1cd9bd0528ff2cc4452bec92b9"
+TOKEN = "SEU TOKEN"
 HEADERS = {"Authorization": f"Token {TOKEN}"}
 
 # ESQUEMA DE PASTAS
